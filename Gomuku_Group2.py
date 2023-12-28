@@ -1,6 +1,6 @@
 """
 Author: TA Tony, WU Qihang, HUANG Zhaojun, GUO Junzhe, HU rui
-Date: 2323-12-04
+Date: 2023-12-04
 Group: 2
 Description: an Interactive Program of Gomuku Chess Game
 """
