@@ -1,4 +1,4 @@
-# MCTS
+# Application of MCTS in Gomuku
 An Interactive Program of Gomuku Chess Game
 
 The chess board can be visualized as a piece of paper, is then wraped to join on the opposite sides, as illustrated:
